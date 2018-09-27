@@ -2690,6 +2690,10 @@ input, select, textarea {
 	font-size: 80%;
 }
 
+svg{
+	height: 37px;
+}
+
 /* Poptrox */
 
 	@-moz-keyframes spin {
