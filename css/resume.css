@@ -79,6 +79,11 @@ p.lead {
   font-size: 3rem;
 }
 
+.redux-icon {
+  width: 48px;
+}
+
+
 .dev-icons .list-inline-item i:hover {
   color: #BD5D38;
 }
@@ -190,3 +195,5 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+
